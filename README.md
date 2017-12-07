@@ -42,7 +42,7 @@ diff --staged:
 ??
 
 reset :
-inverse de add sur un élément. Si c'est un élément qui a été 'add' il ne le sera plus. Il existera toujours, mais ne fera plus partie des éléments "gérés" par git
+inverse de add sur un élément. Si c'est un élément qui a été 'add' au présent commit, il ne le sera plus.
 
 checkout :
 remet l'élément à l'état du précédent commit
