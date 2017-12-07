@@ -1,4 +1,4 @@
-﻿
+
 Ctrl+O	Ouvrir un fichier
 Ctrl+N	Nouveau fichier
 Ctrl+Shift+N	Nouvelle fenêtre
