@@ -64,3 +64,5 @@ fusionne la branch dans laquelle on travaille avec la branch <BranchToMerge>
 
 branch -d <BranchToDelete>:
 supprime la branch <BranchToDelete>
+
+gfkkjgfdgfd
